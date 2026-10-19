@@ -1,4 +1,4 @@
-### Hi, I'm Daniel 👋
+### Howdy, I'm Daniel!
 
 Ph.D. candidate in Mechanical Engineering (Controls) at the **University of Oklahoma**. I build controllers and estimators that let drones and ground robots operate on their own.
 
@@ -18,6 +18,6 @@ Ph.D. candidate in Mechanical Engineering (Controls) at the **University of Okla
 ![CasADi](https://img.shields.io/badge/CasADi-optimization-555555)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-🌐 [dannyboy849.github.io](https://dannyboy849.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/daniel-vargas-slydly/) · 📄 [ORCID](https://orcid.org/0009-0000-2877-847X)
+[dannyboy849.github.io](https://dannyboy849.github.io) · [LinkedIn](https://www.linkedin.com/in/daniel-vargas-slydly/) · [ORCID](https://orcid.org/0009-0000-2877-847X)
 
-*Open to robotics, autonomy, and controls internships for summer 2027.*
+*Open to robotics, autonomy, and controls internships for summer 2027*
